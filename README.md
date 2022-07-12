@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/g110szymon" target="blank"><img src="https://img.shields.io/twitter/follow/g110szymon?logo=twitter&style=for-the-badge" alt="g110szymon" /></a> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
