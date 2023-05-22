@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Szymon</h1>
-<h3 align="center">I'm 15 years old and I'm learning to code.</h3>
+<h3 align="center">I'm 16 years old and I'm learning to code.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=szymong110&label=Profile%20views&color=0e75b6&style=flat" alt="szymong110" /> </p>
 
