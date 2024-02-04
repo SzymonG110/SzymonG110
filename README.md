@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Szymon</h1>
-<h3 align="center">I'm 16 years old and I'm learning to code.</h3>
+<h3 align="center">I'm 17 years old and I'm learning to code.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=szymong110&label=Profile%20views&color=0e75b6&style=flat" alt="szymong110" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/g110szymon" target="blank"><img src="https://img.shields.io/twitter/follow/g110szymon?logo=twitter&style=for-the-badge" alt="g110szymon" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React**(**Next.js**)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
